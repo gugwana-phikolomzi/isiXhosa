@@ -1,0 +1,15 @@
+corpus_progress_files_table:
+  type: pandas.CSVDataSet
+  filepath: data/08_reporting/corpus_progress_files_table.csv
+  save_args:
+    index: false
+
+corpus_progress_milestones_table:
+  type: pandas.CSVDataSet
+  filepath: data/08_reporting/corpus_progress_milestones_table.csv
+  save_args:
+    index: false
+
+corpus_progress_report_md:
+  type: text.TextDataSet
+  filepath: data/08_reporting/corpus_progress.md

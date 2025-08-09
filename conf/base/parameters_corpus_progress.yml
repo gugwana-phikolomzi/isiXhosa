@@ -1,0 +1,7 @@
+corpus_progress:
+  corpus_root: "data/03_primary"
+  file_glob: "DoBE_grade12.csv"
+  text_column: 0        # <-- no quotes, make it an integer
+  dedup: true
+  min_doc_chars: 5
+  report_title: "isiXhosa Corpus Progress"

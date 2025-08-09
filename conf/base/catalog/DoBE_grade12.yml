@@ -1,0 +1,319 @@
+
+# =================================================================
+# ============= GRADE 12 2008 NSC =================================
+# =================================================================
+raw_2008_fal_p1:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_FAL_P1.pdf
+
+raw_2008_fal_p1_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_FAL_P1_memo.pdf
+
+raw_2008_fal_p3:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_FAL_P3.pdf
+
+raw_2008_hl_p1:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_HL_P1.pdf
+
+raw_2008_hl_p1_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_HL_P1_memo.pdf
+
+raw_2008_hl_p3:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_HL_P3.pdf
+
+raw_2008_sal_p1_eastern_cape:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_SAL_P1_Eastern_Cape.pdf
+
+raw_2008_sal_p1_eastern_cape_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_SAL_P1_Eastern_Cape_memo.pdf
+
+raw_2008_sal_p1_gauteng:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_SAL_P1_Gauteng.pdf
+
+raw_2008_sal_p1_gauteng_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_SAL_P1_Gauteng_memo.pdf
+
+raw_2008_sal_p1_western_cape:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_SAL_P1_Western_Cape.pdf
+
+raw_2008_sal_p1_western_cape_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_SAL_P1_Western_Cape_memo.pdf
+
+raw_2008_sal_p2_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008/isiXhosa_SAL_P2_memo.pdf
+
+
+raw_2008_1_fal_p1:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_fal_p1.pdf
+
+raw_2008_1_fal_p1_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_fal_p1_memo.pdf
+
+raw_2008_1_fal_p3:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_fal_p3.pdf
+
+raw_2008_1_hl_p1:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_hl_p1.pdf
+
+raw_2008_1_hl_p1_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_hl_p1_memo.pdf
+
+raw_2008_1_hl_p3:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_hl_p3.pdf
+
+raw_2008_1_sal_p1_eastern_cape:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_sal_p1_eastern_cape.pdf
+
+raw_2008_1_sal_p1_eastern_cape_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_sal_p1_eastern_cape_memo.pdf
+
+raw_2008_1_sal_p1_gauteng:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_sal_p1_gauteng.pdf
+
+raw_2008_1_sal_p1_gauteng_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_sal_p1_gauteng_memo.pdf
+
+raw_2008_1_sal_p1_western_cape:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_sal_p1_western_cape.pdf
+
+raw_2008_1_sal_p1_western_cape_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_sal_p1_western_cape_memo.pdf
+
+raw_2008_1_sal_p2_memo:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2008_1/isxhosa_sal_p2_memo.pdf
+
+# =================================================================
+# ============= GRADE 12 2009 NSC =================================
+# =================================================================
+
+# ---------- RAW PDFs: 2009 ----------
+raw_2009_isixhosa_fal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_fal_p1_nov_memo.pdf
+
+raw_2009_isixhosa_fal_p1_nov_paper_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_fal_p1_nov_paper.pdf
+
+raw_2009_isixhosa_fal_p3_nov_paper_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_fal_p3_nov_paper.pdf
+
+raw_2009_isixhosa_fal_p3_nov_rubric_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_fal_p3_nov_rubric.pdf
+
+raw_2009_isixhosa_hl_p1_nov_paper_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_hl_p1_nov_paper.pdf
+
+raw_2009_isixhosa_hl_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_hl_p2_nov_memo.pdf
+
+raw_2009_isixhosa_hl_p2_nov_paper_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_hl_p2_nov_paper.pdf
+
+raw_2009_isixhosa_hl_p3_nov_paper_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_hl_p3_nov_paper.pdf
+
+raw_2009_isixhosa_hl_p3_nov_rubric_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_hl_p3_nov_rubric.pdf
+
+raw_2009_isixhosa_sal_p2_nov_paper_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_sal_p2_nov_paper.pdf
+
+raw_2009_isixhosa_sal_p2_nov_rubric_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/2009_isixhosa_sal_p2_nov_rubric.pdf
+
+# SAL P1 Provincials
+raw_2009_isixhosa_sal_p1_nov_eastern_cape_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/isiXhosa_SAL_P1_Nov_2009_Eastern Cape.pdf
+
+raw_2009_isixhosa_sal_p1_nov_western_cape_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/isiXhosa_SAL_P1_Nov_2009_Western_Cape.pdf
+
+# Stray out-of-year file (optional: move to 2012 first)
+raw_misc_feb_march_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2009/Feb_March_Memo.pdf
+
+
+
+# =================================================================
+# ============= GRADE 12 2011 NSC =================================
+# =================================================================
+raw_2011_isixhosa_fal_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_fal_p1_memo.pdf
+
+raw_2011_isixhosa_fal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_fal_p1.pdf
+
+raw_2011_isixhosa_fal_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_fal_p2_memo.pdf
+
+raw_2011_isixhosa_fal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_fal_p2.pdf
+
+raw_2011_isixhosa_fal_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_fal_p3_memo.pdf
+
+raw_2011_isixhosa_fal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_fal_p3.pdf
+
+raw_2011_isixhosa_hl_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_hl_p1_memo.pdf
+
+raw_2011_isixhosa_hl_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_hl_p1.pdf
+
+raw_2011_isixhosa_hl_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_hl_p2_memo.pdf
+
+raw_2011_isixhosa_hl_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_hl_p2.pdf
+
+raw_2011_isixhosa_hl_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_hl_p3_memo.pdf
+
+raw_2011_isixhosa_hl_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_hl_p3.pdf
+
+raw_2011_isixhosa_sal_p1_eastern_cape_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_sal_p1_eastern_cape.pdf
+
+raw_2011_isixhosa_sal_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_sal_p2_memo.pdf
+
+raw_2011_isixhosa_sal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011/2011_isixhosa_sal_p2.pdf
+
+# =================================================================
+# ============= GRADE 12 2011 Nov NSC =============================
+# =================================================================
+raw_2011_isixhosa_fal_p1_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_fal_p1_nov.pdf
+
+raw_2011_isixhosa_fal_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_fal_p2_nov.pdf
+
+raw_2011_isixhosa_fal_p3_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_fal_p3_nov.pdf
+
+raw_2011_isixhosa_hl_p1_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_hl_p1_nov.pdf
+
+raw_2011_isixhosa_hl_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_hl_p2_nov.pdf
+
+raw_2011_isixhosa_hl_p3_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_hl_p3_nov.pdf
+
+raw_2011_isixhosa_sal_p1_eastern_cape_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_sal_p1_eastern_cape_nov.pdf
+
+raw_2011_isixhosa_sal_p1_western_cape_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_sal_p1_western_cape_nov.pdf
+
+raw_2011_isixhosa_sal_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/2011_1/2011_isixhosa_sal_p2_nov.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cleaned_grade12_exam_data:
+  type: pandas.CSVDataSet
+  filepath: data/02_intermediate/cleaned_grade12_exam_data.csv
+
+isiXhosa_sentences:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/DoBE_grade12.csv
+  save_args:
+    index: false
+    header: false
+    quoting: 0
+
+
+
+
+
+
