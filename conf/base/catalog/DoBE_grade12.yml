@@ -1113,13 +1113,443 @@ raw_2019_isixhosa_sal_p2_nov_memo_pdf:
   type: project.datasets.pdf.PDFTextDataSet
   filepath: data/01_raw/DoBE_grade12/2019_1/raw_2019_isixhosa_sal_p2_nov_memo.pdf
 
+# =================================================================
+# ============ GRADE 12 2021 FEB/MAR ==============================
+# =================================================================
+
+raw_2021_isixhosa_fal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_fal_p1.pdf
+raw_2021_isixhosa_fal_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_fal_p1_memo.pdf
+raw_2021_isixhosa_fal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_fal_p2.pdf
+raw_2021_isixhosa_fal_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_fal_p2_memo.pdf
+raw_2021_isixhosa_fal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_fal_p3.pdf
+raw_2021_isixhosa_fal_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_fal_p3_memo.pdf
+raw_2021_isixhosa_hl_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_hl_p1.pdf
+raw_2021_isixhosa_hl_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_hl_p1_memo.pdf
+raw_2021_isixhosa_hl_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_hl_p2.pdf
+raw_2021_isixhosa_hl_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_hl_p2_memo.pdf
+raw_2021_isixhosa_hl_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_hl_p3.pdf
+raw_2021_isixhosa_hl_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021/raw_2021_isixhosa_hl_p3_memo.pdf
+
+# =================================================================
+# ================ GRADE 12 2021 NOV ==============================
+# =================================================================
+
+raw_2021_1_isixhosa_fal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_fal_p1.pdf
+raw_2021_1_isixhosa_fal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_fal_p1_nov_memo.pdf
+raw_2021_1_isixhosa_fal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_fal_p2.pdf
+raw_2021_1_isixhosa_fal_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_fal_p2_nov_memo.pdf
+raw_2021_1_isixhosa_fal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_fal_p3.pdf
+raw_2021_1_isixhosa_fal_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_fal_p3_nov_memo.pdf
+raw_2021_1_isixhosa_hl_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_hl_p1.pdf
+raw_2021_1_isixhosa_hl_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_hl_p1_nov_memo.pdf
+raw_2021_1_isixhosa_hl_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_hl_p2.pdf
+raw_2021_1_isixhosa_hl_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_hl_p2_nov_memo.pdf
+raw_2021_1_isixhosa_hl_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_hl_p3.pdf
+raw_2021_1_isixhosa_hl_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_hl_p3_nov_memo.pdf
+raw_2021_1_isixhosa_sal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_sal_p1.pdf
+raw_2021_1_isixhosa_sal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_sal_p1_nov_memo.pdf
+raw_2021_1_isixhosa_sal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_sal_p2.pdf
+raw_2021_1_isixhosa_sal_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_sal_p2_nov_memo.pdf
+raw_2021_1_isixhosa_sal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_sal_p3.pdf
+raw_2021_1_isixhosa_sal_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2021_1/raw_2021_1_isixhosa_sal_p3_memo.pdf
+
+
+# =================================================================
+# ================ GRADE 12 20212 FEB/MAR =========================
+# =================================================================
+
+# FAL
+raw_2022_isixhosa_fal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_fal_p1.pdf
+raw_2022_isixhosa_fal_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_fal_p1_memo.pdf
+raw_2022_isixhosa_fal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_fal_p2.pdf
+raw_2022_isixhosa_fal_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_fal_p2_memo.pdf
+raw_2022_isixhosa_fal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_fal_p3.pdf
+raw_2022_isixhosa_fal_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_fal_p3_memo.pdf
+
+# HL
+raw_2022_isixhosa_hl_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_hl_p1.pdf
+raw_2022_isixhosa_hl_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_hl_p1_memo.pdf
+raw_2022_isixhosa_hl_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_hl_p2.pdf
+raw_2022_isixhosa_hl_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_hl_p2_memo.pdf
+raw_2022_isixhosa_hl_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_hl_p3.pdf
+raw_2022_isixhosa_hl_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_hl_p3_memo.pdf
+
+# SAL
+raw_2022_isixhosa_sal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_sal_p1.pdf
+raw_2022_isixhosa_sal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_sal_p2.pdf
+raw_2022_isixhosa_sal_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022/raw_2022_isixhosa_sal_p2_memo.pdf
+
+
+# =================================================================
+# ================ GRADE 12 2022 NOV ==============================
+# =================================================================
+# FAL
+raw_2022_1_isixhosa_fal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_fal_p1.pdf
+raw_2022_1_isixhosa_fal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_fal_p1_nov_memo.pdf
+raw_2022_1_isixhosa_fal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_fal_p2.pdf
+raw_2022_1_isixhosa_fal_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_fal_p2_nov_memo.pdf
+raw_2022_1_isixhosa_fal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_fal_p3.pdf
+raw_2022_1_isixhosa_fal_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_fal_p3_nov_memo.pdf
+
+# HL
+raw_2022_1_isixhosa_hl_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_hl_p1.pdf
+raw_2022_1_isixhosa_hl_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_hl_p1_nov_memo.pdf
+raw_2022_1_isixhosa_hl_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_hl_p2.pdf
+raw_2022_1_isixhosa_hl_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_hl_p2_nov_memo.pdf
+raw_2022_1_isixhosa_hl_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_hl_p3.pdf
+raw_2022_1_isixhosa_hl_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_hl_p3_nov_memo.pdf
+
+# SAL
+raw_2022_1_isixhosa_sal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_sal_p1.pdf
+raw_2022_1_isixhosa_sal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_sal_p1_nov_memo.pdf
+raw_2022_1_isixhosa_sal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_sal_p2.pdf
+raw_2022_1_isixhosa_sal_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_sal_p2_nov_memo.pdf
+raw_2022_1_isixhosa_sal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_sal_p3.pdf
+raw_2022_1_isixhosa_sal_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2022_1/raw_2022_1_isixhosa_sal_p3_memo.pdf
+
+
+# =================================================================
+# ================ GRADE 12 2023 FEB/MAR ==========================
+# =================================================================
+
+# FAL
+raw_2023_1_isixhosa_fal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_fal_p1.pdf
+raw_2023_1_isixhosa_fal_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_fal_p1_memo.pdf
+raw_2023_1_isixhosa_fal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_fal_p2.pdf
+raw_2023_1_isixhosa_fal_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_fal_p2_memo.pdf
+raw_2023_1_isixhosa_fal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_fal_p3.pdf
+raw_2023_1_isixhosa_fal_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_fal_p3_memo.pdf
+
+# HL
+raw_2023_1_isixhosa_hl_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_hl_p1.pdf
+raw_2023_1_isixhosa_hl_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_hl_p1_memo.pdf
+raw_2023_1_isixhosa_hl_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_hl_p2.pdf
+raw_2023_1_isixhosa_hl_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_hl_p2_memo.pdf
+raw_2023_1_isixhosa_hl_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_hl_p3.pdf
+raw_2023_1_isixhosa_hl_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023/raw_2023_1_isixhosa_hl_p3_memo.pdf
 
 
 
+# =================================================================
+# ================ GRADE 12 2023 NOV ==============================
+# =================================================================
 
+# --- FAL ---
+raw_2023_1_isixhosa_fal_p1_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_fal_p1.pdf
+raw_2023_1_isixhosa_fal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_fal_p1_nov_memo.pdf
+raw_2023_1_isixhosa_fal_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_fal_p2.pdf
+raw_2023_1_isixhosa_fal_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_fal_p2_nov_memo.pdf
+raw_2023_1_isixhosa_fal_p3_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_fal_p3.pdf
+raw_2023_1_isixhosa_fal_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_fal_p3_nov_memo.pdf
 
+# --- HL ---
+raw_2023_1_isixhosa_hl_p1_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_hl_p1.pdf
+raw_2023_1_isixhosa_hl_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_hl_p1_nov_memo.pdf
+raw_2023_1_isixhosa_hl_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_hl_p2.pdf
+raw_2023_1_isixhosa_hl_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_hl_p2_nov_memo.pdf
+raw_2023_1_isixhosa_hl_p3_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_hl_p3.pdf
+raw_2023_1_isixhosa_hl_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_hl_p3_nov_memo.pdf
 
+# --- SAL ---
+raw_2023_1_isixhosa_sal_p1_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_sal_p1.pdf
+raw_2023_1_isixhosa_sal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_sal_p1_nov_memo.pdf
+raw_2023_1_isixhosa_sal_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_sal_p2.pdf
+raw_2023_1_isixhosa_sal_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_sal_p2_nov_memo.pdf
+raw_2023_1_isixhosa_sal_p3_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_sal_p3.pdf
+raw_2023_1_isixhosa_sal_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2023_1/raw_2023_1_isixhosa_sal_p3_memo.pdf
 
+# =================================================================
+# ================ GRADE 12 2024 FEB/MAR ==========================
+# =================================================================
+
+# --- FAL ---
+raw_2024_febmar_isixhosa_fal_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_fal_p1.pdf
+raw_2024_febmar_isixhosa_fal_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_fal_p1_memo.pdf
+raw_2024_febmar_isixhosa_fal_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_fal_p2.pdf
+raw_2024_febmar_isixhosa_fal_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_fal_p2_memo.pdf
+raw_2024_febmar_isixhosa_fal_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_fal_p3.pdf
+raw_2024_febmar_isixhosa_fal_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_fal_p3_memo.pdf
+
+# --- HL ---
+raw_2024_febmar_isixhosa_hl_p1_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_hl_p1.pdf
+raw_2024_febmar_isixhosa_hl_p1_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_hl_p1_memo.pdf
+raw_2024_febmar_isixhosa_hl_p2_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_hl_p2.pdf
+raw_2024_febmar_isixhosa_hl_p2_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_hl_p2_memo.pdf
+raw_2024_febmar_isixhosa_hl_p3_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_hl_p3.pdf
+raw_2024_febmar_isixhosa_hl_p3_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024/2024_febmar_isixhosa_hl_p3_memo.pdf
+
+# =================================================================
+# ================ GRADE 12 2024 NOV ==============================
+# =================================================================
+# FAL
+raw_2024_2_isixhosa_fal_p1_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_fal_p1.pdf
+raw_2024_2_isixhosa_fal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_fal_p1_nov_memo.pdf
+raw_2024_2_isixhosa_fal_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_fal_p2.pdf
+raw_2024_2_isixhosa_fal_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_fal_p2_nov_memo.pdf
+raw_2024_2_isixhosa_fal_p3_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_fal_p3.pdf
+raw_2024_2_isixhosa_fal_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_fal_p3_nov_memo.pdf
+
+# HL
+raw_2024_2_isixhosa_hl_p1_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_hl_p1.pdf
+raw_2024_2_isixhosa_hl_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_hl_p1_nov_memo.pdf
+raw_2024_2_isixhosa_hl_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_hl_p2.pdf
+raw_2024_2_isixhosa_hl_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_hl_p2_nov_memo.pdf
+raw_2024_2_isixhosa_hl_p3_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_hl_p3.pdf
+raw_2024_2_isixhosa_hl_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_hl_p3_nov_memo.pdf
+
+# SAL
+raw_2024_2_isixhosa_sal_p1_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_sal_p1.pdf
+raw_2024_2_isixhosa_sal_p1_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_sal_p1_nov_memo.pdf
+raw_2024_2_isixhosa_sal_p2_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_sal_p2.pdf
+raw_2024_2_isixhosa_sal_p2_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_sal_p2_nov_memo.pdf
+raw_2024_2_isixhosa_sal_p3_nov_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_sal_p3.pdf
+raw_2024_2_isixhosa_sal_p3_nov_memo_pdf:
+  type: project.datasets.pdf.PDFTextDataSet
+  filepath: data/01_raw/DoBE_grade12/2024_2/raw_2024_2_isixhosa_sal_p3_nov_memo.pdf
 
 
 

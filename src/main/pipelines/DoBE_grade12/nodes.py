@@ -328,6 +328,158 @@ def clean_exam_data(
     sal_p2_nov_memo_2019: str,
 
 
+    # 2021 FEB/MAR
+    fal_p1_2021: str,
+    fal_p1_memo_2021: str,
+    fal_p2_2021: str,
+    fal_p2_memo_2021: str,
+    fal_p3_2021: str,
+    fal_p3_memo_2021: str,
+    hl_p1_2021: str,
+    hl_p1_memo_2021: str,
+    hl_p2_2021: str,
+    hl_p2_memo_2021: str,
+    hl_p3_2021: str,
+    hl_p3_memo_2021: str,
+
+
+    # 2021 NOV
+    fal_p1_2021_1: str,
+    fal_p1_nov_memo_2021_1: str,
+    fal_p2_2021_1: str,
+    fal_p2_nov_memo_2021_1: str,
+    fal_p3_2021_1: str,
+    fal_p3_nov_memo_2021_1: str,
+    hl_p1_2021_1: str,
+    hl_p1_nov_memo_2021_1: str,
+    hl_p2_2021_1: str,
+    hl_p2_nov_memo_2021_1: str,
+    hl_p3_2021_1: str,
+    hl_p3_nov_memo_2021_1: str,
+    sal_p1_2021_1: str,
+    sal_p1_nov_memo_2021_1: str,
+    sal_p2_2021_1: str,
+    sal_p2_nov_memo_2021_1: str,
+    sal_p3_2021_1: str,
+    sal_p3_memo_2021_1: str,
+
+
+
+    # 2022 FEB/MAR
+    fal_p1_2022: str,
+    fal_p1_memo_2022: str,
+    fal_p2_2022: str,
+    fal_p2_memo_2022: str,
+    fal_p3_2022: str,
+    fal_p3_memo_2022: str,
+    hl_p1_2022: str,
+    hl_p1_memo_2022: str,
+    hl_p2_2022: str,
+    hl_p2_memo_2022: str,
+    hl_p3_2022: str,
+    hl_p3_memo_2022: str,
+    sal_p1_2022: str,
+    sal_p2_2022: str,
+    sal_p2_memo_2022: str,
+
+
+
+    # 2022 NOV
+    fal_p1_2022_1: str,
+    fal_p1_nov_memo_2022_1: str,
+    fal_p2_2022_1: str,
+    fal_p2_nov_memo_2022_1: str,
+    fal_p3_2022_1: str,
+    fal_p3_nov_memo_2022_1: str,
+    hl_p1_2022_1: str,
+    hl_p1_nov_memo_2022_1: str,
+    hl_p2_2022_1: str,
+    hl_p2_nov_memo_2022_1: str,
+    hl_p3_2022_1: str,
+    hl_p3_nov_memo_2022_1: str,
+    sal_p1_2022_1: str,
+    sal_p1_nov_memo_2022_1: str,
+    sal_p2_2022_1: str,
+    sal_p2_nov_memo_2022_1: str,
+    sal_p3_2022_1: str,
+    sal_p3_memo_2022_1: str,
+
+
+    # 2023 FEB/MAR
+    fal_p1_2023: str,
+    fal_p1_memo_2023: str,
+    fal_p2_2023: str,
+    fal_p2_memo_2023: str,
+    fal_p3_2023: str,
+    fal_p3_memo_2023: str,
+    hl_p1_2023: str,
+    hl_p1_memo_2023: str,
+    hl_p2_2023: str,
+    hl_p2_memo_2023: str,
+    hl_p3_2023: str,
+    hl_p3_memo_2023: str,
+
+
+    # # 2023 NOV
+    fal_p1_2023_nov: str,
+    fal_p1_memo_2023_nov: str,
+    fal_p2_2023_nov: str,
+    fal_p2_memo_2023_nov: str,
+    fal_p3_2023_nov: str,
+    fal_p3_memo_2023_nov: str,
+
+    hl_p1_2023_nov: str,
+    hl_p1_memo_2023_nov: str,
+    hl_p2_2023_nov: str,
+    hl_p2_memo_2023_nov: str,
+    hl_p3_2023_nov: str,
+    hl_p3_memo_2023_nov: str,
+
+    sal_p1_2023_nov: str,
+    sal_p1_memo_2023_nov: str,
+    sal_p2_2023_nov: str,
+    sal_p2_memo_2023_nov: str,
+    sal_p3_2023_nov: str,
+    sal_p3_memo_2023_nov: str,
+
+    # 2024 FEB/MAR
+    fal_p1_2024_febmar: str,
+    fal_p1_memo_2024_febmar: str,
+    fal_p2_2024_febmar: str,
+    fal_p2_memo_2024_febmar: str,
+    fal_p3_2024_febmar: str,
+    fal_p3_memo_2024_febmar: str,
+
+    hl_p1_2024_febmar: str,
+    hl_p1_memo_2024_febmar: str,
+    hl_p2_2024_febmar: str,
+    hl_p2_memo_2024_febmar: str,
+    hl_p3_2024_febmar: str,
+    hl_p3_memo_2024_febmar: str,
+
+    # 2024 NOV 
+    fal_p1_2024_nov: str,
+    fal_p1_memo_2024_nov: str,
+    fal_p2_2024_nov: str,
+    fal_p2_memo_2024_nov: str,
+    fal_p3_2024_nov: str,
+    fal_p3_memo_2024_nov: str,
+
+    hl_p1_2024_nov: str,
+    hl_p1_memo_2024_nov: str,
+    hl_p2_2024_nov: str,
+    hl_p2_memo_2024_nov: str,
+    hl_p3_2024_nov: str,
+    hl_p3_memo_2024_nov: str,
+
+    sal_p1_2024_nov: str,
+    sal_p1_memo_2024_nov: str,
+    sal_p2_2024_nov: str,
+    sal_p2_memo_2024_nov: str,
+    sal_p3_2024_nov: str,
+    sal_p3_memo_2024_nov: str,
+
+
 
 ) -> pd.DataFrame:
     records = [
@@ -404,7 +556,7 @@ def clean_exam_data(
         ("2011_1 SAL P1 Western Cape", sal_p1_2011_1_western_cape),
         ("2011_1 SAL P2", sal_p2_2011_1),
 
-                # --- 2012 (Feb-March) ---
+        # --- 2012 (Feb-March) ---
         ("2012 FAL P1 Feb-March Memo", fal_p1_febmarch_memo_2012),
         ("2012 FAL P1 Feb-March Paper", fal_p1_febmarch_paper_2012),
         ("2012 FAL P2 Feb-March Memo", fal_p2_febmarch_memo_2012),
@@ -656,6 +808,169 @@ def clean_exam_data(
         ("2019 Nov SAL P2", sal_p2_nov_2019),
         ("2019 Nov SAL P2 Memo", sal_p2_nov_memo_2019),
 
+        # 2021 FEB/MAR
+        ("2021 FAL P1", fal_p1_2021),
+        ("2021 FAL P1 Memo", fal_p1_memo_2021),
+        ("2021 FAL P2", fal_p2_2021),
+        ("2021 FAL P2 Memo", fal_p2_memo_2021),
+        ("2021 FAL P3", fal_p3_2021),
+        ("2021 FAL P3 Memo", fal_p3_memo_2021),
+        ("2021 HL P1", hl_p1_2021),
+        ("2021 HL P1 Memo", hl_p1_memo_2021),
+        ("2021 HL P2", hl_p2_2021),
+        ("2021 HL P2 Memo", hl_p2_memo_2021),
+        ("2021 HL P3", hl_p3_2021),
+        ("2021 HL P3 Memo", hl_p3_memo_2021),
+
+
+        # 2021 NOV
+        ("2021_1 FAL P1", fal_p1_2021_1),
+        ("2021_1 FAL P1 Nov Memo", fal_p1_nov_memo_2021_1),
+        ("2021_1 FAL P2", fal_p2_2021_1),
+        ("2021_1 FAL P2 Nov Memo", fal_p2_nov_memo_2021_1),
+        ("2021_1 FAL P3", fal_p3_2021_1),
+        ("2021_1 FAL P3 Nov Memo", fal_p3_nov_memo_2021_1),
+        ("2021_1 HL P1", hl_p1_2021_1),
+        ("2021_1 HL P1 Nov Memo", hl_p1_nov_memo_2021_1),
+        ("2021_1 HL P2", hl_p2_2021_1),
+        ("2021_1 HL P2 Nov Memo", hl_p2_nov_memo_2021_1),
+        ("2021_1 HL P3", hl_p3_2021_1),
+        ("2021_1 HL P3 Nov Memo", hl_p3_nov_memo_2021_1),
+        ("2021_1 SAL P1", sal_p1_2021_1),
+        ("2021_1 SAL P1 Nov Memo", sal_p1_nov_memo_2021_1),
+        ("2021_1 SAL P2", sal_p2_2021_1),
+        ("2021_1 SAL P2 Nov Memo", sal_p2_nov_memo_2021_1),
+        ("2021_1 SAL P3", sal_p3_2021_1),
+        ("2021_1 SAL P3 Memo", sal_p3_memo_2021_1),
+
+
+        # 2022 FEB/MAR
+        ("2022 FAL P1", fal_p1_2022),
+        ("2022 FAL P1 Memo", fal_p1_memo_2022),
+        ("2022 FAL P2", fal_p2_2022),
+        ("2022 FAL P2 Memo", fal_p2_memo_2022),
+        ("2022 FAL P3", fal_p3_2022),
+        ("2022 FAL P3 Memo", fal_p3_memo_2022),
+        ("2022 HL P1", hl_p1_2022),
+        ("2022 HL P1 Memo", hl_p1_memo_2022),
+        ("2022 HL P2", hl_p2_2022),
+        ("2022 HL P2 Memo", hl_p2_memo_2022),
+        ("2022 HL P3", hl_p3_2022),
+        ("2022 HL P3 Memo", hl_p3_memo_2022),
+        ("2022 SAL P1", sal_p1_2022),
+        ("2022 SAL P2", sal_p2_2022),
+        ("2022 SAL P2 Memo", sal_p2_memo_2022),
+
+
+
+        # 2022 NOV
+        ("2022_1 FAL P1", fal_p1_2022_1),
+        ("2022_1 FAL P1 Nov Memo", fal_p1_nov_memo_2022_1),
+        ("2022_1 FAL P2", fal_p2_2022_1),
+        ("2022_1 FAL P2 Nov Memo", fal_p2_nov_memo_2022_1),
+        ("2022_1 FAL P3", fal_p3_2022_1),
+        ("2022_1 FAL P3 Nov Memo", fal_p3_nov_memo_2022_1),
+
+        ("2022_1 HL P1", hl_p1_2022_1),
+        ("2022_1 HL P1 Nov Memo", hl_p1_nov_memo_2022_1),
+        ("2022_1 HL P2", hl_p2_2022_1),
+        ("2022_1 HL P2 Nov Memo", hl_p2_nov_memo_2022_1),
+        ("2022_1 HL P3", hl_p3_2022_1),
+        ("2022_1 HL P3 Nov Memo", hl_p3_nov_memo_2022_1),
+
+        ("2022_1 SAL P1", sal_p1_2022_1),
+        ("2022_1 SAL P1 Nov Memo", sal_p1_nov_memo_2022_1),
+        ("2022_1 SAL P2", sal_p2_2022_1),
+        ("2022_1 SAL P2 Nov Memo", sal_p2_nov_memo_2022_1),
+        ("2022_1 SAL P3", sal_p3_2022_1),
+        ("2022_1 SAL P3 Memo", sal_p3_memo_2022_1),
+
+        # 2023 FEB/MAR
+        ("2023 FAL P1", fal_p1_2023),
+        ("2023 FAL P1 Memo", fal_p1_memo_2023),
+        ("2023 FAL P2", fal_p2_2023),
+        ("2023 FAL P2 Memo", fal_p2_memo_2023),
+        ("2023 FAL P3", fal_p3_2023),
+        ("2023 FAL P3 Memo", fal_p3_memo_2023),
+
+        ("2023 HL P1", hl_p1_2023),
+        ("2023 HL P1 Memo", hl_p1_memo_2023),
+        ("2023 HL P2", hl_p2_2023),
+        ("2023 HL P2 Memo", hl_p2_memo_2023),
+        ("2023 HL P3", hl_p3_2023),
+        ("2023 HL P3 Memo", hl_p3_memo_2023),
+
+
+
+        # 2023 NOV
+        # --- FAL ---
+        ("2023 NOV FAL P1", fal_p1_2023_nov),
+        ("2023 NOV FAL P1 Memo", fal_p1_memo_2023_nov),
+        ("2023 NOV FAL P2", fal_p2_2023_nov),
+        ("2023 NOV FAL P2 Memo", fal_p2_memo_2023_nov),
+        ("2023 NOV FAL P3", fal_p3_2023_nov),
+        ("2023 NOV FAL P3 Memo", fal_p3_memo_2023_nov),
+
+        # --- HL ---
+        ("2023 NOV HL P1", hl_p1_2023_nov),
+        ("2023 NOV HL P1 Memo", hl_p1_memo_2023_nov),
+        ("2023 NOV HL P2", hl_p2_2023_nov),
+        ("2023 NOV HL P2 Memo", hl_p2_memo_2023_nov),
+        ("2023 NOV HL P3", hl_p3_2023_nov),
+        ("2023 NOV HL P3 Memo", hl_p3_memo_2023_nov),
+
+        # --- SAL ---
+        ("2023 NOV SAL P1", sal_p1_2023_nov),
+        ("2023 NOV SAL P1 Memo", sal_p1_memo_2023_nov),
+        ("2023 NOV SAL P2", sal_p2_2023_nov),
+        ("2023 NOV SAL P2 Memo", sal_p2_memo_2023_nov),
+        ("2023 NOV SAL P3", sal_p3_2023_nov),
+        ("2023 NOV SAL P3 Memo", sal_p3_memo_2023_nov),
+
+        #--- 2024 FEB/MAR---
+        # --- FAL ---
+        ("2024 FEBMAR FAL P1", fal_p1_2024_febmar),
+        ("2024 FEBMAR FAL P1 Memo", fal_p1_memo_2024_febmar),
+        ("2024 FEBMAR FAL P2", fal_p2_2024_febmar),
+        ("2024 FEBMAR FAL P2 Memo", fal_p2_memo_2024_febmar),
+        ("2024 FEBMAR FAL P3", fal_p3_2024_febmar),
+        ("2024 FEBMAR FAL P3 Memo", fal_p3_memo_2024_febmar),
+
+        # --- HL ---
+        ("2024 FEBMAR HL P1", hl_p1_2024_febmar),
+        ("2024 FEBMAR HL P1 Memo", hl_p1_memo_2024_febmar),
+        ("2024 FEBMAR HL P2", hl_p2_2024_febmar),
+        ("2024 FEBMAR HL P2 Memo", hl_p2_memo_2024_febmar),
+        ("2024 FEBMAR HL P3", hl_p3_2024_febmar),
+        ("2024 FEBMAR HL P3 Memo", hl_p3_memo_2024_febmar),
+
+
+        #--- 2024 NOV---
+        # FAL
+        ("2024 NOV FAL P1", fal_p1_2024_nov),
+        ("2024 NOV FAL P1 Memo", fal_p1_memo_2024_nov),
+        ("2024 NOV FAL P2", fal_p2_2024_nov),
+        ("2024 NOV FAL P2 Memo", fal_p2_memo_2024_nov),
+        ("2024 NOV FAL P3", fal_p3_2024_nov),
+        ("2024 NOV FAL P3 Memo", fal_p3_memo_2024_nov),
+
+        # HL
+        ("2024 NOV HL P1", hl_p1_2024_nov),
+        ("2024 NOV HL P1 Memo", hl_p1_memo_2024_nov),
+        ("2024 NOV HL P2", hl_p2_2024_nov),
+        ("2024 NOV HL P2 Memo", hl_p2_memo_2024_nov),
+        ("2024 NOV HL P3", hl_p3_2024_nov),
+        ("2024 NOV HL P3 Memo", hl_p3_memo_2024_nov),
+
+        # SAL
+        ("2024 NOV SAL P1", sal_p1_2024_nov),
+        ("2024 NOV SAL P1 Memo", sal_p1_memo_2024_nov),
+        ("2024 NOV SAL P2", sal_p2_2024_nov),
+        ("2024 NOV SAL P2 Memo", sal_p2_memo_2024_nov),
+        ("2024 NOV SAL P3", sal_p3_2024_nov),
+        ("2024 NOV SAL P3 Memo", sal_p3_memo_2024_nov),
+
+
 
     ]
 
@@ -663,7 +978,6 @@ def clean_exam_data(
     return df
 
 
-# ---------- cleaners ----------
 # ---------- cleaners ----------
 def clean_raw_text(text: str) -> str:
     # remove isolated numbers (keep things like years in prose if attached to words)

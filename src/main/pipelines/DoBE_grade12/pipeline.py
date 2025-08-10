@@ -311,7 +311,7 @@ def create_pipeline(**kwargs) -> Pipeline:
                     "hl_p3_2019": "raw_2019_isixhosa_hl_p3_pdf",
                     "hl_p3_memo_2019": "raw_2019_isixhosa_hl_p3_memo_pdf",
 
-
+                    # 2019 NOV
                     "fal_p1_nov_2019": "raw_2019_isixhosa_fal_p1_nov_pdf",
                     "fal_p1_nov_memo_2019": "raw_2019_isixhosa_fal_p1_nov_memo_pdf",
                     "fal_p2_nov_2019": "raw_2019_isixhosa_fal_p2_nov_pdf",
@@ -331,12 +331,159 @@ def create_pipeline(**kwargs) -> Pipeline:
                     "sal_p2_nov_2019": "raw_2019_isixhosa_sal_p2_nov_pdf",  
                     "sal_p2_nov_memo_2019": "raw_2019_isixhosa_sal_p2_nov_memo_pdf",
 
+                    # 2021 FEB/MAR
+                    "fal_p1_2021": "raw_2021_isixhosa_fal_p1_pdf",
+                    "fal_p1_memo_2021": "raw_2021_isixhosa_fal_p1_memo_pdf",
+                    "fal_p2_2021": "raw_2021_isixhosa_fal_p2_pdf",
+                    "fal_p2_memo_2021": "raw_2021_isixhosa_fal_p2_memo_pdf",
+                    "fal_p3_2021": "raw_2021_isixhosa_fal_p3_pdf",
+                    "fal_p3_memo_2021": "raw_2021_isixhosa_fal_p3_memo_pdf",
+                    "hl_p1_2021": "raw_2021_isixhosa_hl_p1_pdf",
+                    "hl_p1_memo_2021": "raw_2021_isixhosa_hl_p1_memo_pdf",
+                    "hl_p2_2021": "raw_2021_isixhosa_hl_p2_pdf",
+                    "hl_p2_memo_2021": "raw_2021_isixhosa_hl_p2_memo_pdf",
+                    "hl_p3_2021": "raw_2021_isixhosa_hl_p3_pdf",
+                    "hl_p3_memo_2021": "raw_2021_isixhosa_hl_p3_memo_pdf",
+
+                    # 2021 NOV
+                    "fal_p1_2021_1": "raw_2021_1_isixhosa_fal_p1_pdf",
+                    "fal_p1_nov_memo_2021_1": "raw_2021_1_isixhosa_fal_p1_nov_memo_pdf",
+                    "fal_p2_2021_1": "raw_2021_1_isixhosa_fal_p2_pdf",
+                    "fal_p2_nov_memo_2021_1": "raw_2021_1_isixhosa_fal_p2_nov_memo_pdf",
+                    "fal_p3_2021_1": "raw_2021_1_isixhosa_fal_p3_pdf",
+                    "fal_p3_nov_memo_2021_1": "raw_2021_1_isixhosa_fal_p3_nov_memo_pdf",
+                    "hl_p1_2021_1": "raw_2021_1_isixhosa_hl_p1_pdf",
+                    "hl_p1_nov_memo_2021_1": "raw_2021_1_isixhosa_hl_p1_nov_memo_pdf",
+                    "hl_p2_2021_1": "raw_2021_1_isixhosa_hl_p2_pdf",
+                    "hl_p2_nov_memo_2021_1": "raw_2021_1_isixhosa_hl_p2_nov_memo_pdf",
+                    "hl_p3_2021_1": "raw_2021_1_isixhosa_hl_p3_pdf",
+                    "hl_p3_nov_memo_2021_1": "raw_2021_1_isixhosa_hl_p3_nov_memo_pdf",
+                    "sal_p1_2021_1": "raw_2021_1_isixhosa_sal_p1_pdf",
+                    "sal_p1_nov_memo_2021_1": "raw_2021_1_isixhosa_sal_p1_nov_memo_pdf",
+                    "sal_p2_2021_1": "raw_2021_1_isixhosa_sal_p2_pdf",
+                    "sal_p2_nov_memo_2021_1": "raw_2021_1_isixhosa_sal_p2_nov_memo_pdf",
+                    "sal_p3_2021_1": "raw_2021_1_isixhosa_sal_p3_pdf",
+                    "sal_p3_memo_2021_1": "raw_2021_1_isixhosa_sal_p3_memo_pdf",
+
+                     # 2022 FEB/MAR
+                    "fal_p1_2022": "raw_2022_isixhosa_fal_p1_pdf",
+                    "fal_p1_memo_2022": "raw_2022_isixhosa_fal_p1_memo_pdf",
+                    "fal_p2_2022": "raw_2022_isixhosa_fal_p2_pdf",
+                    "fal_p2_memo_2022": "raw_2022_isixhosa_fal_p2_memo_pdf",
+                    "fal_p3_2022": "raw_2022_isixhosa_fal_p3_pdf",
+                    "fal_p3_memo_2022": "raw_2022_isixhosa_fal_p3_memo_pdf",
+                    "hl_p1_2022": "raw_2022_isixhosa_hl_p1_pdf",
+                    "hl_p1_memo_2022": "raw_2022_isixhosa_hl_p1_memo_pdf",
+                    "hl_p2_2022": "raw_2022_isixhosa_hl_p2_pdf",
+                    "hl_p2_memo_2022": "raw_2022_isixhosa_hl_p2_memo_pdf",
+                    "hl_p3_2022": "raw_2022_isixhosa_hl_p3_pdf",
+                    "hl_p3_memo_2022": "raw_2022_isixhosa_hl_p3_memo_pdf",
+                    "sal_p1_2022": "raw_2022_isixhosa_sal_p1_pdf",
+                    "sal_p2_2022": "raw_2022_isixhosa_sal_p2_pdf",
+                    "sal_p2_memo_2022": "raw_2022_isixhosa_sal_p2_memo_pdf",
+
+                    # 2022 NOV
+                    "fal_p1_2022_1": "raw_2022_1_isixhosa_fal_p1_pdf",
+                    "fal_p1_nov_memo_2022_1": "raw_2022_1_isixhosa_fal_p1_nov_memo_pdf",
+                    "fal_p2_2022_1": "raw_2022_1_isixhosa_fal_p2_pdf",
+                    "fal_p2_nov_memo_2022_1": "raw_2022_1_isixhosa_fal_p2_nov_memo_pdf",
+                    "fal_p3_2022_1": "raw_2022_1_isixhosa_fal_p3_pdf",
+                    "fal_p3_nov_memo_2022_1": "raw_2022_1_isixhosa_fal_p3_nov_memo_pdf",
+
+                    "hl_p1_2022_1": "raw_2022_1_isixhosa_hl_p1_pdf",
+                    "hl_p1_nov_memo_2022_1": "raw_2022_1_isixhosa_hl_p1_nov_memo_pdf",
+                    "hl_p2_2022_1": "raw_2022_1_isixhosa_hl_p2_pdf",
+                    "hl_p2_nov_memo_2022_1": "raw_2022_1_isixhosa_hl_p2_nov_memo_pdf",
+                    "hl_p3_2022_1": "raw_2022_1_isixhosa_hl_p3_pdf",
+                    "hl_p3_nov_memo_2022_1": "raw_2022_1_isixhosa_hl_p3_nov_memo_pdf",
+
+                    "sal_p1_2022_1": "raw_2022_1_isixhosa_sal_p1_pdf",
+                    "sal_p1_nov_memo_2022_1": "raw_2022_1_isixhosa_sal_p1_nov_memo_pdf",
+                    "sal_p2_2022_1": "raw_2022_1_isixhosa_sal_p2_pdf",
+                    "sal_p2_nov_memo_2022_1": "raw_2022_1_isixhosa_sal_p2_nov_memo_pdf",
+                    "sal_p3_2022_1": "raw_2022_1_isixhosa_sal_p3_pdf",
+                    "sal_p3_memo_2022_1": "raw_2022_1_isixhosa_sal_p3_memo_pdf",
+
+                    # 2023 FEB/MAR
+                    "fal_p1_2023": "raw_2023_1_isixhosa_fal_p1_pdf",
+                    "fal_p1_memo_2023": "raw_2023_1_isixhosa_fal_p1_memo_pdf",
+                    "fal_p2_2023": "raw_2023_1_isixhosa_fal_p2_pdf",
+                    "fal_p2_memo_2023": "raw_2023_1_isixhosa_fal_p2_memo_pdf",
+                    "fal_p3_2023": "raw_2023_1_isixhosa_fal_p3_pdf",
+                    "fal_p3_memo_2023": "raw_2023_1_isixhosa_fal_p3_memo_pdf",
+
+                    "hl_p1_2023": "raw_2023_1_isixhosa_hl_p1_pdf",
+                    "hl_p1_memo_2023": "raw_2023_1_isixhosa_hl_p1_memo_pdf",
+                    "hl_p2_2023": "raw_2023_1_isixhosa_hl_p2_pdf",
+                    "hl_p2_memo_2023": "raw_2023_1_isixhosa_hl_p2_memo_pdf",
+                    "hl_p3_2023": "raw_2023_1_isixhosa_hl_p3_pdf",
+                    "hl_p3_memo_2023": "raw_2023_1_isixhosa_hl_p3_memo_pdf",
+
+
+                    # --- 2023 NOV ---
+                    "fal_p1_2023_nov": "raw_2023_1_isixhosa_fal_p1_nov_pdf",
+                    "fal_p1_memo_2023_nov": "raw_2023_1_isixhosa_fal_p1_nov_memo_pdf",
+                    "fal_p2_2023_nov": "raw_2023_1_isixhosa_fal_p2_nov_pdf",
+                    "fal_p2_memo_2023_nov": "raw_2023_1_isixhosa_fal_p2_nov_memo_pdf",
+                    "fal_p3_2023_nov": "raw_2023_1_isixhosa_fal_p3_nov_pdf",
+                    "fal_p3_memo_2023_nov": "raw_2023_1_isixhosa_fal_p3_nov_memo_pdf",
+
+                    "hl_p1_2023_nov": "raw_2023_1_isixhosa_hl_p1_nov_pdf",
+                    "hl_p1_memo_2023_nov": "raw_2023_1_isixhosa_hl_p1_nov_memo_pdf",
+                    "hl_p2_2023_nov": "raw_2023_1_isixhosa_hl_p2_nov_pdf",
+                    "hl_p2_memo_2023_nov": "raw_2023_1_isixhosa_hl_p2_nov_memo_pdf",
+                    "hl_p3_2023_nov": "raw_2023_1_isixhosa_hl_p3_nov_pdf",
+                    "hl_p3_memo_2023_nov": "raw_2023_1_isixhosa_hl_p3_nov_memo_pdf",
+
+                    "sal_p1_2023_nov": "raw_2023_1_isixhosa_sal_p1_nov_pdf",
+                    "sal_p1_memo_2023_nov": "raw_2023_1_isixhosa_sal_p1_nov_memo_pdf",
+                    "sal_p2_2023_nov": "raw_2023_1_isixhosa_sal_p2_nov_pdf",
+                    "sal_p2_memo_2023_nov": "raw_2023_1_isixhosa_sal_p2_nov_memo_pdf",
+                    "sal_p3_2023_nov": "raw_2023_1_isixhosa_sal_p3_nov_pdf",
+                    "sal_p3_memo_2023_nov": "raw_2023_1_isixhosa_sal_p3_nov_memo_pdf",
+
+                    # ---2024 FEB/MAR---
+
+                    # --- FAL ---
+                    "fal_p1_2024_febmar": "raw_2024_febmar_isixhosa_fal_p1_pdf",
+                    "fal_p1_memo_2024_febmar": "raw_2024_febmar_isixhosa_fal_p1_memo_pdf",
+                    "fal_p2_2024_febmar": "raw_2024_febmar_isixhosa_fal_p2_pdf",
+                    "fal_p2_memo_2024_febmar": "raw_2024_febmar_isixhosa_fal_p2_memo_pdf",
+                    "fal_p3_2024_febmar": "raw_2024_febmar_isixhosa_fal_p3_pdf",
+                    "fal_p3_memo_2024_febmar": "raw_2024_febmar_isixhosa_fal_p3_memo_pdf",
+
+                    # --- HL ---
+                    "hl_p1_2024_febmar": "raw_2024_febmar_isixhosa_hl_p1_pdf",
+                    "hl_p1_memo_2024_febmar": "raw_2024_febmar_isixhosa_hl_p1_memo_pdf",
+                    "hl_p2_2024_febmar": "raw_2024_febmar_isixhosa_hl_p2_pdf",
+                    "hl_p2_memo_2024_febmar": "raw_2024_febmar_isixhosa_hl_p2_memo_pdf",
+                    "hl_p3_2024_febmar": "raw_2024_febmar_isixhosa_hl_p3_pdf",
+                    "hl_p3_memo_2024_febmar": "raw_2024_febmar_isixhosa_hl_p3_memo_pdf",
 
 
 
 
+                    # --- 2024_2 (November) ---
+                    "fal_p1_2024_nov": "raw_2024_2_isixhosa_fal_p1_nov_pdf",
+                    "fal_p1_memo_2024_nov": "raw_2024_2_isixhosa_fal_p1_nov_memo_pdf",
+                    "fal_p2_2024_nov": "raw_2024_2_isixhosa_fal_p2_nov_pdf",
+                    "fal_p2_memo_2024_nov": "raw_2024_2_isixhosa_fal_p2_nov_memo_pdf",
+                    "fal_p3_2024_nov": "raw_2024_2_isixhosa_fal_p3_nov_pdf",
+                    "fal_p3_memo_2024_nov": "raw_2024_2_isixhosa_fal_p3_nov_memo_pdf",
 
+                    "hl_p1_2024_nov": "raw_2024_2_isixhosa_hl_p1_nov_pdf",
+                    "hl_p1_memo_2024_nov": "raw_2024_2_isixhosa_hl_p1_nov_memo_pdf",
+                    "hl_p2_2024_nov": "raw_2024_2_isixhosa_hl_p2_nov_pdf",
+                    "hl_p2_memo_2024_nov": "raw_2024_2_isixhosa_hl_p2_nov_memo_pdf",
+                    "hl_p3_2024_nov": "raw_2024_2_isixhosa_hl_p3_nov_pdf",
+                    "hl_p3_memo_2024_nov": "raw_2024_2_isixhosa_hl_p3_nov_memo_pdf",
 
+                    "sal_p1_2024_nov": "raw_2024_2_isixhosa_sal_p1_nov_pdf",
+                    "sal_p1_memo_2024_nov": "raw_2024_2_isixhosa_sal_p1_nov_memo_pdf",
+                    "sal_p2_2024_nov": "raw_2024_2_isixhosa_sal_p2_nov_pdf",
+                    "sal_p2_memo_2024_nov": "raw_2024_2_isixhosa_sal_p2_nov_memo_pdf",
+                    "sal_p3_2024_nov": "raw_2024_2_isixhosa_sal_p3_nov_pdf",
+                    "sal_p3_memo_2024_nov": "raw_2024_2_isixhosa_sal_p3_nov_memo_pdf",
 
 
 
