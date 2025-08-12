@@ -1,0 +1,39 @@
+# --- Data_source_3 ---
+entsimini:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/Data_source_3/entsimini.csv
+  load_args:
+    sep: "|"
+
+ezemidlalo:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/Data_source_3/ezemidlalo.csv
+  load_args:
+    sep: "|"
+
+ezoyolo:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/Data_source_3/ezoyolo.csv
+  load_args:
+    sep: "|"
+
+iindaba:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/Data_source_3/iindaba.csv
+  load_args:
+    sep: "|"
+
+izimvo:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/Data_source_3/izimvo.csv
+  load_args:
+    sep: "|"
+
+
+combined_data_source_3_texts:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/Data_source_3/combined_text.csv
+  save_args:
+    index: false
+    header: false
+    quoting: 0

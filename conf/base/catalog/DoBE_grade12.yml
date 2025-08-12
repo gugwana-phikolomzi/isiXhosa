@@ -1557,11 +1557,11 @@ raw_2024_2_isixhosa_sal_p3_nov_memo_pdf:
 
 cleaned_grade12_exam_data:
   type: pandas.CSVDataSet
-  filepath: data/02_intermediate/cleaned_grade12_exam_data.csv
+  filepath: data/02_intermediate/DoBE_grade12/cleaned_grade12_exam_data.csv
 
 isiXhosa_sentences:
   type: pandas.CSVDataSet
-  filepath: data/03_primary/DoBE_grade12.csv
+  filepath: data/03_primary/DoBE_grade12/DoBE_grade12.csv
   save_args:
     index: false
     header: false

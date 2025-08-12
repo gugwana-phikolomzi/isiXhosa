@@ -1,0 +1,27 @@
+# --- Bible CSV datasets (inputs you already added) ---
+xho75:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/Bibles/genesis_xho75.csv
+  load_args: { encoding: utf-8 }
+  save_args: { index: false, encoding: utf-8 }
+
+xho96:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/Bibles/genesis_xho96.csv
+  load_args: { encoding: utf-8 }
+  save_args: { index: false, encoding: utf-8 }
+
+xho1902a:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/Bibles/genesis_xho1902a.csv
+  load_args: { encoding: utf-8 }
+  save_args: { index: false, encoding: utf-8 }
+
+# --- Output: single-column CSV with only `text` ---
+bible_text_corpus:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/Bibles/bible_text_corpus.csv
+  save_args:
+    index: false
+    header: false
+    quoting: 0

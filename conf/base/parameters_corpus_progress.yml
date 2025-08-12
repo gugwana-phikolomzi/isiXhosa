@@ -1,6 +1,6 @@
 corpus_progress:
   corpus_root: "data/03_primary"
-  file_glob: "DoBE_grade12.csv"
+  file_glob: "full_text_corpus.csv"
   text_column: 0        # <-- no quotes, make it an integer
   dedup: true
   min_doc_chars: 5

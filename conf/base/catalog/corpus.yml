@@ -1,0 +1,7 @@
+full_text_corpus:
+  type: pandas.CSVDataSet
+  filepath: data/03_primary/full_text_corpus.csv
+  save_args:
+    index: false
+    header: false
+    quoting: 0
